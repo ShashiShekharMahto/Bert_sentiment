@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 https://download.pytorch.org/whl/torch_stable.html
+=======
+-f https://download.pytorch.org/whl/torch_stable.html
+>>>>>>> 098c11fc25589396ea9255b8cd560f68fcc7c9f8
 certifi==2020.12.5
 chardet==4.0.0
 click==7.1.2
