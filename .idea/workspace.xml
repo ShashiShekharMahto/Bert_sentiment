@@ -11,8 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e4c574c-d364-493e-b85d-d82d5bfb6e73" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Bert_sentiment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Bert_sentiment.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +48,7 @@
       <updated>1618046569577</updated>
       <workItem from="1618046575975" duration="2302000" />
       <workItem from="1618085286519" duration="2644000" />
+      <workItem from="1618138451362" duration="1587000" />
     </task>
     <servers />
   </component>
@@ -66,9 +68,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="13" key="SettingsEditor" timestamp="1618085491061">
+    <state x="184" y="13" key="SettingsEditor" timestamp="1618138706682">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="184" y="13" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1618085491061" />
+    <state x="184" y="13" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1618138706682" />
   </component>
 </project>

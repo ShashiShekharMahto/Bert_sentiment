@@ -2,7 +2,7 @@ import torch
 from transformers import BertTokenizer, BertModel
 import torch.nn as nn
 
-bert = BertModel.from_pretrained('bert-base-uncased')
+bert = BertModel.from_pretrained('bert_base_uncased/', local_files_only=True)
 tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
 max_input_length = tokenizer.max_model_input_sizes['bert-base-uncased']
 
@@ -75,6 +75,6 @@ sentiment_model.load_state_dict(torch.load('model/tut6-model.pt',map_location=to
 
 m = Model()
 #print(sentiment.predict("okay"))
-#print(m.predict("okay"))
+print(m.predict("okay"))
 def get_model():
     return m
